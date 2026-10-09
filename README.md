@@ -9,7 +9,7 @@ This application is distributed as a standalone portable package. It **does not 
 
 Click the link below to get the latest pre-compiled bundle directly:
 
-➡️ **[Download Latest Release (descartes-calculator-linux.tar.gz)](https://github.com/<YOUR_GITHUB_USERNAME>/<YOUR_REPO_NAME>/releases/latest/download/descartes-calculator-linux.tar.gz)**
+➡️ **[Download Latest Release (descartes-calculator-linux.tar.gz)](https://github.com/josequiceno2000/descartes-calculator/releases/latest/download/descartes-calculator-linux.tar.gz)**
 
 ---
 
